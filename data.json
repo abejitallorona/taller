@@ -1,0 +1,24 @@
+{
+    "animales":[
+        {
+            "nombre": "firulais",
+            "raza": "chandita"
+        },
+        {
+            "nombre": "camilo",
+            "raza": "caro"
+        },
+        {
+            "nombre": "paquita",
+            "raza": "caro"
+        },
+        {
+            "nombre": "harry",
+            "raza": "caro"
+        },
+        {
+            "nombre": "pepinillo",
+            "raza": "chandita"
+        }
+    ]
+}
